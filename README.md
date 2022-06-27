@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome To QianZehao's Home 👋
 
 <!--
 **QianZeHao123/QianZeHao123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working at School of Management Engineering, ZZU.
+- 🌱 I’m currently learning Haskell, NodeJS, Rust...
+- 📫 How to reach me: qianzehao123@gmail.com
+- 😄 Pronouns: 
