@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Haskell, NodeJS, Rust...
 - 📫 How to reach me: qianzehao123@gmail.com
 - 😄 Pronouns: Every brave attempt deserves to be respected.
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/Christmas/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/qianzehao123/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianzehao123)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianzehao123&layout=compact)](https://github.com/Christmas/github-readme-stats)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianzehao123&show_icons=true&theme=tokyonight)
