@@ -1,5 +1,4 @@
 ### Welcome To QianZehao's Home 👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <!--
 **QianZeHao123/QianZeHao123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 - 🔭 I’m currently working at School of Management Engineering, ZZU.
 - 🌱 I’m currently learning Haskell, NodeJS, Rust...
 - 📫 How to reach me: qianzehao123@gmail.com
