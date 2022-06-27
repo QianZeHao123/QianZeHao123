@@ -1,5 +1,5 @@
 ### Welcome To QianZehao's Home 👋
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <!--
 **QianZeHao123/QianZeHao123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
