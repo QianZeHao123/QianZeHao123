@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: qianzehao123@gmail.com
 - 😄 Pronouns: Every brave attempt deserves to be respected.<br>
 My ![Visitor Count](https://profile-counter.glitch.me/qianzehao123/count.svg) Visitors.<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianzehao123&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/qianzehao123/github-readme-stats)<br>
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianzehao123&show_icons=true&theme=tokyonight)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianzehao123&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/qianzehao123/github-readme-stats)<br> -->
+<!-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianzehao123&show_icons=true&theme=tokyonight) -->
