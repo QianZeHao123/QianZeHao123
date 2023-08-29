@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 -->
 [![Github](https://img.shields.io/github/followers/QianZeHao123?label=Follow&style=social)](https://github.com/QianZeHao123)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=QianZeHao123" alt="visitor badge"/>  
-- 🔭 I’m currently working at School of Management Engineering, ZZU.
-- 🌱 I’m currently learning Haskell, NodeJS, Rust...
+- 🔭 Industrial Engineering in ZZU, Optimization Research & System Engineering
+- 🌱 I’m currently a Postgraduate student of Data Science (Social Analytics) in Durham University, British.
+- ⚡ Good at Python, Node.js, Mathematica.
 - 📫 How to reach me: qianzehao123@gmail.com
+- 💬 My Personal Homepage：https://qianzehao123.github.io/
 - 😄 Pronouns: Every brave attempt deserves to be respected.<br>
 My ![Visitor Count](https://profile-counter.glitch.me/qianzehao123/count.svg) Visitors.<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianzehao123&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/qianzehao123/github-readme-stats)<br> -->
