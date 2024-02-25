@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 Industrial Engineering in ZZU, Optimization Research & System Engineering
 - 🌱 I’m currently a Postgraduate student of Data Science (Social Analytics) in Durham University, British.
 - ⚡ Good at Python, Node.js, Mathematica.
-- 📫 How to reach me: qianzehao123@gmail.com
+- 📫 How to reach me: zehao.qian.cn@gmail.com
 - 💬 My Personal Homepage：https://qianzehao123.github.io/
 - 😄 Pronouns: Every brave attempt deserves to be respected.<br>
 My ![Visitor Count](https://profile-counter.glitch.me/qianzehao123/count.svg) Visitors.<br>
