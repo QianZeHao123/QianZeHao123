@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zehao.qian.cn@gmail.com
 - 💬 My Personal Homepage：https://qianzehao123.github.io/
 - 💬 My Personal Portfolio: https://qianzehao123.github.io/zehao.qian/
+- 👯 Founder of [OpenIE](https://github.com/Open-Source-Intelligent-Engineering) and [QianZe-HAO](https://github.com/QianZe-HAO)
 - 😄 Pronouns: Every brave attempt deserves to be respected.<br>
 My ![Visitor Count](https://profile-counter.glitch.me/qianzehao123/count.svg) Visitors.<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianzehao123&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/qianzehao123/github-readme-stats)<br> -->
