@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 [![Github](https://img.shields.io/github/followers/QianZeHao123?label=Follow&style=social)](https://github.com/QianZeHao123)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=QianZeHao123" alt="visitor badge"/>  
-- 🔭 Industrial Engineering in ZZU, Optimization Research & System Engineering
-- 🌱 I’m currently a Postgraduate student of Data Science (Social Analytics) in Durham University, British.
-- ⚡ Good at Python, Node.js, Mathematica.
+- 🐂 Currently working in Siemens Ltd., China
+- 🔭 Industrial Engineering at Zhengzhou University: Focused on Optimization Research and System Engineering.
+- 🌱 Postgraduate in Data Science (Social Analytics) at Durham University, UK
+- ⚡ Good at Python, JavaScript and R.
 - 📫 How to reach me: zehao.qian.cn@gmail.com
 - 💬 My Personal Homepage：https://qianzehao123.github.io/
 - 💬 My Personal Portfolio: https://qianzehao123.github.io/zehao.qian/
