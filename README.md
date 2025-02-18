@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 [![Github](https://img.shields.io/github/followers/QianZeHao123?label=Follow&style=social)](https://github.com/QianZeHao123)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=QianZeHao123" alt="visitor badge"/>  
-- 🐂 Currently working in Siemens Ltd., China
+- 🐂 Work in Siemens Ltd., China ➡️ CityU, HK
 - 🔭 Industrial Engineering at Zhengzhou University: Focused on Optimization Research and System Engineering.
 - 🌱 Postgraduate in Data Science (Social Analytics) at Durham University, UK
 - ⚡ Good at Python, JavaScript and R.
