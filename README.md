@@ -26,5 +26,8 @@ Here are some ideas to get you started:
 <!-- My ![Visitor Count](https://profile-counter.glitch.me/qianzehao123/count.svg) Visitors.<br> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianzehao123&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/qianzehao123/github-readme-stats)<br> -->
 <!-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianzehao123&show_icons=true&theme=tokyonight) -->
+
+<!--
 ![QianZehao's github stats](https://github-readme-stats.vercel.app/api?username=QianZeHao123&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QianZeHao123&hide=typst,html,jupyter%20notebook,tex&exclude_repo=python_vim&hide_border=true&theme=synthwave)
+-->
